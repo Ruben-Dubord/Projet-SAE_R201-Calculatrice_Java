@@ -1,4 +1,4 @@
-public class Nombre{
+public class Nombre extends Expression{
     
     private int valeurNombre;
 
@@ -10,7 +10,7 @@ public class Nombre{
         this.valeurNombre = nb;
     }
 
-    public int valeur(){
+    public double valeur(){
         return this.valeurNombre;
     }
 
@@ -19,7 +19,7 @@ public class Nombre{
     }
 
     public String toString(){
-        return ("Voici le nombre: " + this.valeur());
+        return (""+this.valeur());
     }
 
 }

@@ -1,7 +1,5 @@
 public class TestOperation {
     public static void main(String[]args){
-        try{
-            
             // PARTIE 1 - SAE 201
             
             Nombre six = new Nombre(6);
@@ -37,11 +35,6 @@ public class TestOperation {
             System.out.println(mul + " = " + mul.valeur());
             System.out.println(add2 + " = " + add2.valeur());
             System.out.println(sous2 + " = " + sous2.valeur());
-
-
-        }
-        catch (ArithmeticException e){
-            System.out.println("Tentative de division par 0, opération impossible");
-        }
+        
     }
 }

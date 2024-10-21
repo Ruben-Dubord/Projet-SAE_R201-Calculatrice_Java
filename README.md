@@ -1,6 +1,6 @@
 # SAE2.01: Ma Calculatrice (en Java) <sub>*2023-2024*</sub>
 
-Ce travail a été réalisé en binôme avec Ruben DUBORD ( [Ruben-Dubord](https://github.com/Ruben-Dubord) ).
+Ce travail a été réalisé en binôme avec Ahash PARTHIPAN (https://github.com/AhashPARTHIPAN).
 
 ## **Ma Calculatrice** 
 
